@@ -1,0 +1,2 @@
+# ai-accelerator-recipe-Rossman-Store-Sales-Prediction
+File attempted to apply various machine learning techniques to a real-world problem of predicting drug store sales. Rossmann, Germany’s second-largest drug store chain, has provided past sales information of 1115 Rossmann stores located across Germany. Preprocessed, feature-engineered the data, and examined different statistical / machine learning analysis for forecasting sales of each store. Then, compared the methods predictive power by computing Root Mean Square Percentage Error (RMSPE).
